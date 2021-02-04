@@ -1,4 +1,5 @@
 ## how to publish a new version to pypi
+(https://kynan.github.io/blog/2020/05/23/how-to-upload-your-package-to-the-python-package-index-pypi-test-server)
 
 make sure you have a python environment with:
 
